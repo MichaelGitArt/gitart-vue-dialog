@@ -1,0 +1,1 @@
+.custom-rotate-transition-enter-active,.custom-rotate-transition-leave-active{transition-timing-function:linear}.custom-rotate-transition-enter-from{transform:translateY(30px) rotate(12deg);opacity:0}.custom-rotate-transition-leave-to{transform:translateY(30px) rotate(4deg);opacity:0}
